@@ -1,0 +1,6 @@
+database:
+  username: wdpuiwizmkufck
+  password: 1ce87f3790720b942db13e1f80f130f50b548bdd3400a3b88a2b77a4787fb08f
+  host: ec2-54-247-169-129.eu-west-1.compute.amazonaws.com
+  port: 5432
+  databaseName: dbpb74lcbrkkpi
